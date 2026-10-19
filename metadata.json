@@ -1,0 +1,6 @@
+{
+  "name": "초등 학급 숙제 및 가정통신문 제출 확인 보드",
+  "description": "Apple Store 스타일의 세련되고 직관적인 초등학생 학급 숙제 및 가정통신문 제출 여부 확인 프로그램",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
